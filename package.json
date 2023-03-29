@@ -1,0 +1,22 @@
+{
+  "name": "simple-rest-apis-nodejs-without-frameworks",
+  "version": "1.0.0",
+  "description": "Là một project tạo ra apis json đơn giản",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/all-source-of-eric/simple-rest-apis-nodejs-without-frameworks.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "eric_duong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/all-source-of-eric/simple-rest-apis-nodejs-without-frameworks/issues"
+  },
+  "homepage": "https://github.com/all-source-of-eric/simple-rest-apis-nodejs-without-frameworks#readme"
+}
